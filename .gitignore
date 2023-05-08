@@ -1,0 +1,6 @@
+experiment/
+lightning_logs/
+*.csv
+test/
+train/
+
