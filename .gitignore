@@ -3,4 +3,4 @@ lightning_logs/
 *.csv
 test/
 train/
-
+*.pt

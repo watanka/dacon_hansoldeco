@@ -3,4 +3,4 @@
 [log]
 [2023-05-08]  
 - baseline 코드 pytorch_lightning code로 변환  
-
+- data imbalance를 위한 class weight 적용
